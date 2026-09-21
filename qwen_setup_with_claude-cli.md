@@ -1,7 +1,7 @@
 # How to Use Claude Code with Qwen Models for Free
 
 ## ⭐ Requirements   
-Before beginning, make sure the following are installed:
+Before beginning, make sure the following are installed: 
 
 - **Qwen CLI** (installed and authenticated)  
 - **Node.js v18 or later**
