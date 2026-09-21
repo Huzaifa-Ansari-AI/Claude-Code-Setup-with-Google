@@ -147,4 +147,4 @@ ccr restart
 PowerShell users: ensure your shell environment is correctly set.
 
 ---
-Don't forgot to subscribe Youtube Channel [Subhan Kaladi](https://www.youtube.com/@subhankaladi)
+Don't forgot to subscribe Youtube Channel [AI with Huzaifa Ansari](www.youtube.com/@AIwithHuzaifaAnsari)
